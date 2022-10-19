@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/mercedesbenz/static/js/main.2a8a5402.js",
+    "static/media/5.png": "/mercedesbenz/static/media/5.c8d846fba041951ec147.png",
+    "static/media/benzcar.png": "/mercedesbenz/static/media/benzcar.9455a31efaf69a04daf4.png",
+    "static/media/6.png": "/mercedesbenz/static/media/6.39bfc5e4a7d4d4f8d55d.png",
+    "static/media/bg.jpg": "/mercedesbenz/static/media/bg.9034401f01f00c1f012f.jpg",
+    "static/media/4.png": "/mercedesbenz/static/media/4.06adeca631215e39ccd6.png",
+    "static/media/1.png": "/mercedesbenz/static/media/1.fcc8b4f81d75a7a90ef5.png",
+    "static/media/2.png": "/mercedesbenz/static/media/2.e9a5bd1d103b0e71164d.png",
+    "static/media/3.png": "/mercedesbenz/static/media/3.130831855dd837cf0099.png",
+    "static/media/logo.png": "/mercedesbenz/static/media/logo.2d859cb425128a9dc77a.png",
+    "index.html": "/mercedesbenz/index.html",
+    "main.2a8a5402.js.map": "/mercedesbenz/static/js/main.2a8a5402.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a8a5402.js"
+  ]
+}
